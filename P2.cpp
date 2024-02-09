@@ -52,6 +52,5 @@ int main() {
         cout << "\nColumna " << j + 1 << " : \n";
         cout << " Promedio: " << promColumna << "\n Mayor: " << maxColumna << "\n Menor: " << minColumna << endl;
     }
-    
     return 0;
 }
